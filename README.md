@@ -13,5 +13,6 @@ PROJECT LIVE LINK -
 ![1](https://github.com/abhisek2004/OCTANET_FEBRUARY/assets/117925314/f977465e-c7f7-483a-bd42-187d1c9635a4)
 
 Languages
-HTML- 50.1%
-CSS- 49.9%
+HTML- 49.8% 
+CSS- 46.3%
+JavaScript- 3.9%
