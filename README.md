@@ -3,7 +3,8 @@
 🚀 Excited to share my first task as a Web Development Intern at Octane SERVICES PVT LTD! 🌐💻
 I had the fantastic opportunity to work on creating a landing page for KFC, to bring their brand to life online. 🍗🖥️
 
-PROJECT LIVE LINK - +
+PROJECT LIVE LINK - 
+
 1- https://65c39fd7aca6823f7007b319--candid-tapioca-ab413e.netlify.app/
 
 2- https://65c9dd54bb96aebc7482ffef--tranquil-brioche-099fd5.netlify.app/
